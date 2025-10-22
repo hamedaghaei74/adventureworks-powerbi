@@ -37,6 +37,8 @@ The dashboard visualizes **sales performance, profitability, orders, and return 
 ### 🌐 Dashboard Access
 You can explore this Power BI project locally:
 
+👉 [**AdventureWorks_Report.pbix**](assets/AdventureWorks_Report.pbix)
+
 1. Download the `.pbix` file from this repository .
 2. Open it in **Power BI Desktop** (free from Microsoft Store).
 3. Interact with the visuals, filters, and DAX-based KPIs.
